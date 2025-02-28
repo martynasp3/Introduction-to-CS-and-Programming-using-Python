@@ -4,11 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="25d723ac-cc86-4e28-a70b-d4065a81ab60" name="Changes" comment="Test">
-      <change afterPath="$PROJECT_DIR$/Lecture 1 - Introduction.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lecture 2 - Strings, Input--Output, Branching.py" afterDir="false" />
+    <list default="true" id="25d723ac-cc86-4e28-a70b-d4065a81ab60" name="Changes" comment="Lecture 2 completed">
+      <change afterPath="$PROJECT_DIR$/Lecture 3 - Iteration.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lecture 2 - Strings, Input--Output, Branching.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lecture 2 - Strings, Input--Output, Branching.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,21 +24,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "martynasp3"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;martynasp3&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/martynasp3/LearningPython",
-    "accountId": "7420e0bd-956e-4eba-b29a-9ce0d1696e96"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/martynasp3/LearningPython&quot;,
+    &quot;accountId&quot;: &quot;7420e0bd-956e-4eba-b29a-9ce0d1696e96&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="2tPgHWDzIkkMi0hUN3oX73BjaQa" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -49,11 +48,14 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.Lecture 1.executor": "Run",
+    "Python.Lecture 2 - Strings, Input--Output, Branching.executor": "Run",
+    "Python.Lecture 3 - Iteration.executor": "Run",
     "Python.main.executor": "Run",
+    "Python.ps1a.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
-    "settings.editor.selected.configurable": "advanced.settings"
+    "settings.editor.selected.configurable": "preferences.keymap"
   }
 }]]></component>
   <component name="SharedIndexes">
@@ -80,7 +82,23 @@
       <option name="project" value="LOCAL" />
       <updated>1740259409199</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Lecture 1 completed">
+      <option name="closed" value="true" />
+      <created>1740268674852</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1740268674852</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Lecture 2 completed">
+      <option name="closed" value="true" />
+      <created>1740604231107</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1740604231107</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -96,6 +114,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Test" />
-    <option name="LAST_COMMIT_MESSAGE" value="Test" />
+    <MESSAGE value="Lecture 1 completed" />
+    <MESSAGE value="Revert &quot;Lecture 2 completed&quot;&#10;&#10;This reverts commit dd25d763b9fcf06aa30ec22bbc7e760627cc9f90." />
+    <MESSAGE value="Lecture 2 completed" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lecture 2 completed" />
   </component>
 </project>
