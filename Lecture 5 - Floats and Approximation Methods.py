@@ -36,7 +36,6 @@ while ((2**p)*x)% 1 != 0: # % grabs the decimal only so 1.1 gives 0.1
 
 num = int((2**p)*x)
 
-# converting integer to binary (base 2)
 result = ""
 if num == 0:
     result = "0"
