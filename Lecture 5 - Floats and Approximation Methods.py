@@ -25,7 +25,7 @@ if is_neg:
 print(result)
 
 
-# <CONVERTING FRACTION TO BINARY (base 2)>
+# <CONVERTING FRACTION TO BINARY (base 2)> (works for fractions that can convert to whole numbers by multiplying with a power of 2)
 
 x = 0.625
 
