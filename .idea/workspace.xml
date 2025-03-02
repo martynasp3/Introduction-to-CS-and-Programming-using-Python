@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="25d723ac-cc86-4e28-a70b-d4065a81ab60" name="Changes" comment="Lecture 2 completed">
-      <change afterPath="$PROJECT_DIR$/Lecture 3 - Iteration.py" afterDir="false" />
+    <list default="true" id="25d723ac-cc86-4e28-a70b-d4065a81ab60" name="Changes" comment="Lecture 3 completed : while and for loops">
+      <change afterPath="$PROJECT_DIR$/Lecture 4 - Loops over Strings, Guess-and-Check, Binary.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lecture 2 - Strings, Input--Output, Branching.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lecture 2 - Strings, Input--Output, Branching.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,12 +49,13 @@
     "Python.Lecture 1.executor": "Run",
     "Python.Lecture 2 - Strings, Input--Output, Branching.executor": "Run",
     "Python.Lecture 3 - Iteration.executor": "Run",
+    "Python.Lecture 4 - Loops over Strings, Guess-and-Check, Binary.executor": "Run",
     "Python.main.executor": "Run",
     "Python.ps1a.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
-    "settings.editor.selected.configurable": "preferences.keymap"
+    "settings.editor.selected.configurable": "preferences.editor"
   }
 }]]></component>
   <component name="SharedIndexes">
@@ -98,7 +98,15 @@
       <option name="project" value="LOCAL" />
       <updated>1740604231107</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Lecture 3 completed : while and for loops">
+      <option name="closed" value="true" />
+      <created>1740705796593</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1740705796593</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -117,6 +125,7 @@
     <MESSAGE value="Lecture 1 completed" />
     <MESSAGE value="Revert &quot;Lecture 2 completed&quot;&#10;&#10;This reverts commit dd25d763b9fcf06aa30ec22bbc7e760627cc9f90." />
     <MESSAGE value="Lecture 2 completed" />
-    <option name="LAST_COMMIT_MESSAGE" value="Lecture 2 completed" />
+    <MESSAGE value="Lecture 3 completed : while and for loops" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lecture 3 completed : while and for loops" />
   </component>
 </project>
