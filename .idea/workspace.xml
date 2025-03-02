@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="25d723ac-cc86-4e28-a70b-d4065a81ab60" name="Changes" comment="Lecture 3 completed : while and for loops">
-      <change afterPath="$PROJECT_DIR$/Lecture 4 - Loops over Strings, Guess-and-Check, Binary.py" afterDir="false" />
+    <list default="true" id="25d723ac-cc86-4e28-a70b-d4065a81ab60" name="Changes" comment="Lecture 4 completed : looping with strings guess-and-check algorithm">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -106,7 +105,15 @@
       <option name="project" value="LOCAL" />
       <updated>1740705796593</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Lecture 4 completed : looping with strings guess-and-check algorithm">
+      <option name="closed" value="true" />
+      <created>1740879990018</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1740879990018</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -126,6 +133,7 @@
     <MESSAGE value="Revert &quot;Lecture 2 completed&quot;&#10;&#10;This reverts commit dd25d763b9fcf06aa30ec22bbc7e760627cc9f90." />
     <MESSAGE value="Lecture 2 completed" />
     <MESSAGE value="Lecture 3 completed : while and for loops" />
-    <option name="LAST_COMMIT_MESSAGE" value="Lecture 3 completed : while and for loops" />
+    <MESSAGE value="Lecture 4 completed : looping with strings guess-and-check algorithm" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lecture 4 completed : looping with strings guess-and-check algorithm" />
   </component>
 </project>
