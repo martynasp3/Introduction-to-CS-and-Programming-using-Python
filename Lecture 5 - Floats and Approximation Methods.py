@@ -80,6 +80,18 @@ if abs(guess**2 - x) >= epsilon:
 else:
     print(f"{guess} is close to square root of {x}")
 
+# <Finger exercise>
+# Assume you are given a string variable my_str
+# Write code that prints out a new string containing the even indexed characters of my_str
+# e.g. if my_str = "abcdefg" then your code should print out "aceg"
+
+my_str = "abcdefg"
+s = ''
+for i in range(0, len(my_str),2):
+    s += my_str[i]
+print(s)
+
+
 # LESSONS LEARNED IN APPROXIMATION #
 # Never use == to compare floats in the stopping condition
 # Need to be careful of infinite loop due to overshooting the 'close-enough' stopping condition
