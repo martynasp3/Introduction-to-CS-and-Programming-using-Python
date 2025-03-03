@@ -25,7 +25,7 @@ if is_neg:
 print(result)
 
 
-# <CONVERTING FRACTION TO BINARY (base 2)>
+# <CONVERTING FRACTION TO BINARY (base 2)> (works for fractions that can convert to whole numbers by multiplying with a power of 2)
 
 x = 0.625
 
@@ -36,7 +36,6 @@ while ((2**p)*x)% 1 != 0: # % grabs the decimal only so 1.1 gives 0.1
 
 num = int((2**p)*x)
 
-# converting integer to binary (base 2)
 result = ""
 if num == 0:
     result = "0"
